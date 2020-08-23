@@ -121,8 +121,7 @@ margin-top: -20px;
     color: yellow;
     background-color: black;
    padding: 20px;
-   margin-right: 260px;
-   margin-left: 260px;
+   
 }
 #foot{
     text-align: center;
@@ -130,7 +129,8 @@ margin-top: -20px;
     color: yellow;
     background-color: black;
     padding: 20px;
-    margin-right: -10px;
+    padding-left: 100%;
+    
 }
 #cont{
     height: 100%;
@@ -160,7 +160,4 @@ margin-top: -20px;
 }
 .pad{
     padding-bottom: 78px;
-}
-.im{
-    color: white;
 }
