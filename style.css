@@ -4,21 +4,7 @@ color: yellow;
 font-size: 27px;
 
 }
-/* #form-bg{
-    background-image: url(https://videohive.img.customer.envatousercontent.com/files/a4c2e1aa-9c57-4516-8d8b-9ae80aae23a5/inline_image_preview.jpg?auto=compress%2Cformat&fit=crop&crop=top&max-h=8000&max-w=590&s=262fc93ff4a6fce00dfd3430edd1f45a);
-    height: 100%;
-color: yellow;
-font-size: 27px;
-margin-bottom: 300px;
 
-
-} */
-#name{
-    color: palegreen;
-    font-family: 'Marck Script', cursive;
-    text-align: center;
-    font-size: 75px;
-}
 #contact{
     color: yellow;
     font-family:'Marck Script', cursive;
@@ -55,7 +41,7 @@ margin-bottom: 300px;
 
 .container{
     
-    background-image: url(https://videohive.img.customer.envatousercontent.com/files/a4c2e1aa-9c57-4516-8d8b-9ae80aae23a5/inline_image_preview.jpg?auto=compress%2Cformat&fit=crop&crop=top&max-h=8000&max-w=590&s=262fc93ff4a6fce00dfd3430edd1f45a);
+    background-image: url(assets/sea.jpg);
     height: 100%;
    /* padding-bottom: 200px; */
 }
@@ -65,7 +51,6 @@ margin-bottom: 300px;
         309deg,
         rgba(0, 2, 1, 0.972) 34%,
         rgb(2, 5, 165) 80%);
-/* background-image: url(https://image.freepik.com/free-vector/abstract-technology-binary-code-background_6735-500.jpg); */
 margin: 10px auto;
 
 margin-top: 20px;
@@ -75,25 +60,21 @@ h2{
     text-align: center;
 }
 .card-img-top {
-    width: fill;
-    height: 15vh;
-    object-fit: fill;
-    align-content: center;
-    
+max-width: 300px;
+max-height: 300px;
+margin: auto;    
 }
 .card-text{
     font-size: 20px;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
 }
-#link{
-    color: palegreen;
-    margin-right: 20px;
-    margin-left: 60px;
-    
- 
-}
+
 .btn-primary, .nav-link, .navbar{
 background-color: black;
 color: yellow;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
 
 
 }
@@ -101,19 +82,24 @@ color: yellow;
     color: white;
 }
 .indexBody{
-    /* background-image: url(https://videohive.img.customer.envatousercontent.com/files/a4c2e1aa-9c57-4516-8d8b-9ae80aae23a5/inline_image_preview.jpg?auto=compress%2Cformat&fit=crop&crop=top&max-h=8000&max-w=590&s=262fc93ff4a6fce00dfd3430edd1f45a); */
-    
-color: white;
+   
+color: rgb(225, 250, 0);
 font-size: 27px;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
 
 }
 .indexBody1{
   
     
 color: white;
-font-size: 27px;
+text-shadow: black;
+text-decoration-color: black;
+
+font-size: 30px;
 margin-left: 15px;
 margin-top: -20px;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 #footer{
     text-align: center;
@@ -145,19 +131,26 @@ margin-top: -20px;
 .tom{
     font-size: 40px;
     color: white;
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 .bullet-job{
     list-style-type: "~";
     list-style-position: outside;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
 }
 .email-link{
-    color: white;
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color:yellow;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 .email-link:hover{
-    color: yellow;
+    color: white;
 }
 .pad{
     padding-bottom: 78px;
+}
+.card-title{
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+color: yellow;
+font-size: 20px;
 }
